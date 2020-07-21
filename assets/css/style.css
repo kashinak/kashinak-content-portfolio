@@ -6,7 +6,7 @@ body {
 
 nav ul {
     list-style: none;
-    background-color: #BFD9D7;
+    background-color: #F9F9F2;
     text-align: center;
     padding: 0;
     margin: 0;
@@ -24,12 +24,33 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #F9F9F2;
+    color: #353745;
     display: block;
 }
 
 nav a:hover {
-    background-color: #F9F9F2;
-    color: #BFD9D7;
+    background-color: #353745;
+    color: #F9F9F2;
 
+}
+
+.logo {
+    float: left;
+    width: 50%;
+}
+
+.logo a[
+ width: 250px;
+  height: 250px;
+]
+
+img {
+    width: 100%;
+    height: 250px;
+}
+.info {
+    float: right;
+    width: 50%;
+    height: 250px;
+    background-color: #F9F9F2;
 }
