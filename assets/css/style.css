@@ -1,7 +1,13 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Yantramanav', sans-serif;
+   
+}
+
+@font-face {
+    font-family: Yantramanov;
+    src: url("https://fonts.googleapis.com/css2?family=Yantramanov:100,200,300,400,500,600,700");
+
 }
 
 
