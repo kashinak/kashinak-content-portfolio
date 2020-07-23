@@ -1,4 +1,5 @@
 body {
+    font-family: 'Yantramanov', sans-serif;
     margin: 0;
     padding: 0;
    
@@ -31,3 +32,64 @@ body {
 .testimonials{
     background-color: black;
 }
+
+.alert-container {
+
+}
+
+.header-container {
+
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+
+}
+.cta-container {
+height: 100vh;
+/* copied full-width image code from css-tricks.com */
+  background: url("../images/gra0227.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+/* flexbox properties below to center contents vertically and horizontally on screen*/
+display: flex;
+align-items: center;
+justify-content: center;
+position: relative;
+}
+
+,navbar-video-container {
+
+}
+
+.testimonials-container {
+
+}
+
+.footer-container {
+
+}
+
+/* jumbotron */
+
+.jumbotron {
+    background-color: transparent;
+}
+.jumbotron .lead {
+    color: #BFD9D7;
+    text-align: center;
+}
+.jumbotron-header {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+/* buttons */
