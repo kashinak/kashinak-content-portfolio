@@ -15,20 +15,22 @@
 
 <body>
 	<!--alert-->
-	<div class="container alert-container">
-		<div class="row">
-			<div class="col-12">
-				<div class="alert alert-warning">
-					<strong>Remote Editing System!</strong> Due to Covid-19 CDC guidelines, I am set-up to work
-					remotely.
+	<div class="container-fluid navalert-container">
+		<div class="container-fluid alert-container">
+			<div class="row d-none d-sm-block">
+				<div class="col-12">
+					<div class="site-wide-alert alert alert-warning">
+						<strong>Remote Editing System!</strong> Due to Covid-19 CDC guidelines, I am set-up to work
+						remotely.
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 	<!--/alert-->
 	<!--header-->
-	<div class="container header-container">
         <!-- navbar-->
+    <div class="container-fluid navbar-container">
 		<nav class="navbar navbar-dark navbar-expand-sm">
 			<!-- logo-->
 			<div class="mx-auto">
@@ -50,8 +52,9 @@
 				</ul>
 			</div>
 		</nav>
+    </div>
         <!-- /navbar-->
-	</div>
+
 	<!--/.header-->
 
 	<!--call-to-action-->
@@ -64,7 +67,7 @@
 						<p class="lead">
 							<strong>Let's discuss your creative needs.</strong>
 						</p>
-						<button class="btn btn-success btn-lg">Email me</button>
+						<button class="btn btn-lg btn-cta btn-gold">Email me</button>
 					</div>
 				</div>
 			</div>
@@ -73,36 +76,28 @@
 	<!--/.call-to-action-->
 
 	<!--navbar-video-->
-	<div class="container video-navbar-container">
-		<section class="navbar-video">
-			<div class="row">
-				<div class="col-12 my-5">
-					<h2 class="text-uppercase">Reel</h2>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-12 col-md-6 col-lg-4">
-					<button class="btn btn-sm btn-light">Feature docs</button>
-				</div>
-				<div class="col-12 col-md-6 col-lg-4">
-					<button class="btn btn-sm btn-light">Mini docs</button>
-				</div>
-				<div class="col-12 col-md-6 col-lg-4">
-					<button class="btn btn-sm btn-light">Social Media</button>
-				</div>
-				<div class="col-12 col-md-6 col-lg-4">
-					<button class="btn btn-sm btn-light">Commercials</button>
-				</div>
-				<div class="col-12 col-md-6 col-lg-4">
-					<button class="btn btn-sm btn-light">Narrative</button>
-				</div>
-			</div>
-		</section>
+    <div class="container-fluid navalert-container">
+	<nav class="navbar navbar-dark navbar-expand-sm">
+		<a href="/" class="navbar-brand">Reel</a>
+	
+		<button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="navbar-toggler-icon"></span></button>
+	
+		<div class="collapse navbar-collapse" id="navbarNavDropdown">
+			<ul class="navbar-nav mr-auto">
+				<li class="btn btn-sm btn-light btn-gold">Feature docs</li>
+				<li class="btn btn-sm btn-light">Mini docs</li>
+				<li class="btn btn-sm btn-light">Social Media</li>
+				<li class="btn btn-sm btn-light">Commercials</li>
+				<li class="btn btn-sm btn-light">Narrative</li>
+			</ul>
+		</div>
+	</nav>
 	</div>
 		<!--/.navbar-video-->
-
+       
 		<!--testimonials-->
-	<div class="container tesimonials-container">
+	<div class="container testimonials-container">
 		<section class="testimonials">
 			<div class="row">
 				<div class="col-12 my-5">
@@ -111,7 +106,7 @@
 			</div>
 			<div class="row">
 				<div class="col-12 col-md-6 col-lg-4">
-					<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+					<div id="carouselExampleCaptions" class="carousel slide testimonials-container" data-ride="carousel">
 						<ol class="carousel-indicators">
 							<li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
 							<li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
