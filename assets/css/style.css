@@ -99,7 +99,9 @@ align-items: center;
 justify-content: center;
 position: relative;
 }
-
+.video-container {
+    z-index: 1;
+}
 /* video-navbar */
 .video-navbar-container {
 background-color: #9c047b;
