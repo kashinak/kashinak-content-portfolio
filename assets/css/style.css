@@ -92,6 +92,7 @@ height: 100vh;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+
 /* flexbox properties below to center contents vertically and horizontally on screen*/
 display: flex;
 align-items: center;
@@ -99,11 +100,14 @@ justify-content: center;
 position: relative;
 }
 
-/* reel  */
+/* video-navbar  */
 .video-navbar-container {
-    background-color: #9c047b;
-
-
+background-color: #9c047b;
+/* flexbox properties below to center contents vertically and horizontally on screen*/
+display: flex;
+align-items: center;
+justify-content: center;
+position: relative;
 }
 
 /* testimonials  */
