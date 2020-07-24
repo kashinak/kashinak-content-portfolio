@@ -152,6 +152,7 @@ background-color:#6b531f;
     margin-bottom: 30px;
 }
 
+
 /* buttons */
 
 /* using method from code institute training called 'block element modifier' for writing structuring my css code */
@@ -174,4 +175,15 @@ background-color:#6b531f;
 .btn-gold:active:focus {
     background-color: #BFD9D7;
     border-color: #BFD9D7;
+}
+
+/* about section */
+
+.about {
+    padding-left: 200px;
+    padding-top: 200px;
+}
+
+.about-text {
+    -webkit-text-fill-color: #BFD9D7;
 }
