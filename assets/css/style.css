@@ -86,31 +86,35 @@ body {
 }
 .cta-container {
 height: 100vh;
-/* copied full-width image code from css-tricks.com */
+    /* copied full-width image code from css-tricks.com */
   background: url("../images/gra0227.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 
-/* flexbox properties below to center contents vertically and horizontally on screen*/
+    /* flexbox properties below to center contents vertically and horizontally on screen*/
 display: flex;
 align-items: center;
 justify-content: center;
 position: relative;
 }
 
-/* video-navbar  */
+/* video-navbar */
 .video-navbar-container {
 background-color: #9c047b;
-/* flexbox properties below to center contents vertically and horizontally on screen*/
+    /* flexbox properties below to center contents vertically and horizontally on screen*/
 display: flex;
 align-items: center;
 justify-content: center;
 position: relative;
 }
-
-/* testimonials  */
+.dropdown {
+padding-left: 0px;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+/* testimonials */
 .testimonials{
 padding-left: 0;
 padding-right: 0;
@@ -119,19 +123,19 @@ background-color:#9c047b;
 
 
 .testimonials-container {
-    /* flexbox properties below to center contents vertically and horizontally on screen*/
-display: flex;
-align-items: center;
-justify-content: center;
-position: relative;
-padding-left: 0;
-padding-right: 0;
+
+background-color:#6b531f;
 }
 
-
-.footer-container {
-
+.carousel {
+    padding-left: 0px;
+    padding-bottom: 20px;
+    padding-right: 0px;
+    padding-top: 20px;
 }
+
+/* footer */
+.footer-container {}
 
 /* jumbotron */
 
