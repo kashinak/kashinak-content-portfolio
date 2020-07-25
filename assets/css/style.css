@@ -99,22 +99,6 @@ body {
     z-index: 1;
 }
 
-/* video-navbar */
-
-.video-navbar-container {
-    background-color: #9c047b;
-    /* flexbox properties below to center contents vertically and horizontally on screen*/
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-}
-
-.dropdown {
-    padding-left: 0px;
-    padding-top: 40px;
-    padding-bottom: 40px;
-}
 
 /* testimonials */
 
