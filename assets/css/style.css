@@ -36,8 +36,6 @@ body {
     padding: 5px 15px;                                  
 }
 
-/* navbar */
-
 .navalert-container {
     position: absolute;
     top: 0;
@@ -47,6 +45,8 @@ body {
     z-index: 1;
     background-color:transparent;
 }
+
+/* navbar */
 
 .navbar-container {
     background-color: #9c047b;
@@ -65,6 +65,13 @@ body {
 
 .navbar .navbar-nav a {
     font-weight: bold;
+}
+
+.navbar-brand {
+    height: auto;
+    width: auto;
+    max-height: 174.84px;
+    max-width: 300px;
 }
 
 /* call-to-action */
@@ -100,23 +107,32 @@ body {
 }
 
 
-/* testimonials */
-
-.testimonials{
-    padding-left: 0;
-    padding-right: 0;
-    background-color:#9c047b;
-}
-
-.testimonials-container {
-    background-color:#6b531f;
-}
+/* video carousel navbar*/
 
 .carousel {
     padding-left: 0px;
     padding-bottom: 20px;
     padding-right: 0px;
     padding-top: 20px;
+}
+
+.card-img-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.card-body {
+    background-color: #AE9152;
+    border-color: #AE9152;
+    color:#F9F9F2;
+}
+
+.card-title {
+    text-emphasis-color: #F9F9F2;
 }
 
 /* jumbotron */
