@@ -1,14 +1,12 @@
 body {
     font-family: 'Yantramanov', sans-serif;
     margin: 0;
-    padding: 0;
-   
+    padding: 0;  
 }
 
 @font-face {
     font-family: Yantramanov;
     src: url("https://fonts.googleapis.com/css2?family=Yantramanov:100,200,300,400,500,600,700");
-
 }
 
 .media {
@@ -19,13 +17,14 @@ body {
 }
 
 .cover img {
-    width: 100%
-    height: 100%
+    width: 100%;
+    height: 100%;
     object-fit: cover;
     overflow: hidden;
 }
 
 /* alert */
+
 .alert-container .col-12 {
     padding-left: 0;
     padding-right: 0;
@@ -34,10 +33,11 @@ body {
 .site-wide-alert {
     border-radius: 0;
     margin-bottom: 0;
-    padding: 5px 15px;
-
+    padding: 5px 15px;                                  
 }
+
 /* navbar */
+
 .navalert-container {
     position: absolute;
     top: 0;
@@ -51,8 +51,8 @@ body {
 .navbar-container {
     background-color: #9c047b;
 }
-.navbar {
 
+.navbar {
     margin-bottom: 0;
     border: 0;
     width: 100%;
@@ -65,16 +65,10 @@ body {
 
 .navbar .navbar-nav a {
     font-weight: bold;
-
 }
-
-/* header */
-.header-container {
-
-}
-
 
 /* call-to-action */
+
 .opaque-overlay {
     position: absolute;
     top: 0;
@@ -82,51 +76,56 @@ body {
     height: 100%;
     width: 100%;
     background-color: rgba(0,0,0,0.5);
-
 }
+
 .cta-container {
-height: 100vh;
+    height: 100vh;
+
     /* copied full-width image code from css-tricks.com */
-  background: url("../images/gra0227.jpg") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    background: url("../images/gra0227.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 
     /* flexbox properties below to center contents vertically and horizontally on screen*/
-display: flex;
-align-items: center;
-justify-content: center;
-position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
 }
+
 .video-container {
     z-index: 1;
 }
+
 /* video-navbar */
+
 .video-navbar-container {
-background-color: #9c047b;
+    background-color: #9c047b;
     /* flexbox properties below to center contents vertically and horizontally on screen*/
-display: flex;
-align-items: center;
-justify-content: center;
-position: relative;
-}
-.dropdown {
-padding-left: 0px;
-padding-top: 40px;
-padding-bottom: 40px;
-}
-/* testimonials */
-.testimonials{
-padding-left: 0;
-padding-right: 0;
-background-color:#9c047b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
 }
 
+.dropdown {
+    padding-left: 0px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+/* testimonials */
+
+.testimonials{
+    padding-left: 0;
+    padding-right: 0;
+    background-color:#9c047b;
+}
 
 .testimonials-container {
-
-background-color:#6b531f;
+    background-color:#6b531f;
 }
 
 .carousel {
@@ -136,31 +135,29 @@ background-color:#6b531f;
     padding-top: 20px;
 }
 
-/* footer */
-.footer-container {}
-
 /* jumbotron */
 
 .jumbotron {
     background-color: transparent;
 }
+
 .jumbotron .lead {
     color: #BFD9D7;
     text-align: center;
 }
+
 .jumbotron-header {
     color: white;
     font-weight: bold;
     margin-bottom: 30px;
 }
 
-
 /* buttons */
 
 /* using method from code institute training called 'block element modifier' for writing structuring my css code */
 
-,btn-cta {
-    font-weigtht: bold;
+.btn-cta {
+    font-weight: bold;
     border-radius: 23px;
     width: 160px;
 }
