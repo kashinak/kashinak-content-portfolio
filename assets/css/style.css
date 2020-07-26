@@ -77,12 +77,19 @@ body {
 /* call-to-action */
 
 .opaque-overlay {
-    position: absolute;
+    position: relative;   
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
     background-color: rgba(0,0,0,0.5);
+
+    /* copied full-width image code from css-tricks.com */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: 0 250px;
 }
 
 .cta-container {
@@ -94,18 +101,8 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
-    /* flexbox properties below to center contents vertically and horizontally on screen*/
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
+    background-position: -200 175px;
 }
-
-.video-container {
-    z-index: 1;
-}
-
 
 /* video carousel navbar*/
 
@@ -152,6 +149,10 @@ body {
     margin-bottom: 30px;
 }
 
+.container{
+   
+    margin-top: 600px;
+}
 /* buttons */
 
 /* using method from code institute training called 'block element modifier' for writing structuring my css code */
@@ -186,3 +187,18 @@ body {
 .about-text {
     -webkit-text-fill-color: #BFD9D7;
 }
+
+/* contact page */
+
+/* mailto form */
+
+.jumbotron .form {
+    color: #BFD9D7;
+    text-align: center;
+} 
+
+.jumbotron .input-text {
+    color:#F9F9F2;
+}
+
+    
