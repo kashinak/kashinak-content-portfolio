@@ -178,13 +178,33 @@ body {
 
 /* about section */
 
+.about-container {
+    padding-top: 100px;
+    background-color: #15110a;
+}
 .about {
     padding-left: 200px;
-    padding-top: 200px;
+    padding-top: 100px;
 }
 
 .about-text {
     -webkit-text-fill-color: #BFD9D7;
+}
+
+.about-image {
+    width: 1008;
+    height: 756px;
+    padding-left: 200px;
+    padding-top: 200px;
+}
+
+.tech-skills {
+    padding-left: 210px;
+    text-decoration-color: F9F9F2;
+}
+
+.about-call-to-action {
+    padding-top: 100px;
 }
 
 /* contact page */
