@@ -27,11 +27,14 @@ As an employer or creative partner, the user can view Kashina's portfolio easily
 - Mailto form on 'contact' page.
 - video thumbnail card carousel on 'home' page with clickable links to Youtube and Facebook video content.
 - header - collapsable menu navbar in mobile view - active page link buttons - Kashina Kessler logo
+- footer - basic with social media icons [unlinked] and copyright
 
 ### Features Left to Implement
 - Improved Video Links: that are on a private server to create a cleaner more professional viewing experience.
 - Video Category Pages with brief descriptions of each video [awards, role, etc...]
 - Mobile First design for all pages. 
+- links to social media sites 
+- custom designed form other than default design
 
 ## Technologies Used
   [.html] (https://html.com/)
