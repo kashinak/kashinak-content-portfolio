@@ -15,9 +15,6 @@ The user should achive a brief overview of Kashina Kessler's documentary work as
 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
-
 As an employer or creative partner, the user can view Kashina's portfolio easily on mobile and desktop. see wireframes and mockups scketches
 
 ## Existing Features
@@ -79,8 +76,6 @@ As an employer or creative partner, the user can view Kashina's portfolio easily
 ## Deployment
 
 This project is deployed on Github and was written in Gitpod. It is currently hosted on Github. It is not fully deployed. 
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
 ## Credits
 
