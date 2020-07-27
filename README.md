@@ -40,12 +40,8 @@ As an employer or creative partner, the user can view Kashina's portfolio easily
   [.html] (https://html.com/)
   [.css] (https://www.w3.org/Style/CSS/Overview.en.html)
   [Bootstrap](https://getbootstrap.com/)
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
+  [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
-
 
 ## Testing
 
