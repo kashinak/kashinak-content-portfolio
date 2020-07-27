@@ -237,7 +237,6 @@ body {
 
 /* about section */
 
-
 /* contact page */
 
 .form-container {
@@ -268,6 +267,7 @@ body {
 }
 
 .footer-container {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #9c047b;
 }
