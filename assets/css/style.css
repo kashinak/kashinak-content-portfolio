@@ -179,7 +179,7 @@ body {
 /* about section */
 
 .about-container {
-    padding-top: 100px;
+    padding-top: 0px;
     background-color: #15110a;
 }
 .about {
@@ -199,16 +199,50 @@ body {
 }
 
 .tech-skills {
+    padding-top: 100px;
     padding-left: 210px;
-    text-decoration-color: F9F9F2;
+    padding-bottom: 100px;
+    color: #F9F9F2;
+    
 }
 
 .about-call-to-action {
     padding-top: 100px;
 }
 
+.fa-adobe {
+    padding-right: 9px;
+  
+}
+
+.fa-github {
+    padding-right: 9px;
+    padding-left: 9px;  
+}
+
+.fa-html5 {
+    padding-right: 9px;
+    padding-left: 9px;  
+}
+
+.fa-css3 {
+    padding-right: 9px;
+    padding-left: 9px;  
+}
+
+.fa-bootstrap {
+    padding-right: 9px;
+    padding-left: 9px;  
+}
+
+/* about section */
+
+
 /* contact page */
 
+.form-container {
+    background-color:  #15110a;
+}
 /* mailto form */
 
 .jumbotron .form {
@@ -220,4 +254,20 @@ body {
     color:#F9F9F2;
 }
 
-    
+/* footer */
+
+.text-footer {
+    color: rgba(0,0,0,0.5)
+}
+
+.copyright {
+    color: #F9F9F2  
+}
+.footer-container .justify-content {
+    justify-content: center!important;
+}
+
+.footer-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
