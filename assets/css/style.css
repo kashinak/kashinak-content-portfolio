@@ -222,6 +222,14 @@ h4 {
     background-color:#D1E8E2;
 }
 
+.about-me-icon {
+    font-size: 26px;
+    color: #116466;  
+}
+
+.about-me-heading {
+    margin-bottom: 15px;
+}
 /* -------------------------------------------------------------------------------About table*/
 .row-table{
     display: table;
