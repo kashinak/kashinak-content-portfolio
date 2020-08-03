@@ -157,6 +157,7 @@ h4 {
 
 .card-title {
     text-emphasis-color: #F9F9F2;
+    font-size: 20px;
 }
 
 /* -------------------------------------------------------------------------------Jumbotron */
@@ -302,40 +303,7 @@ h4 {
     padding-top: 100px;
 }
 
-/* -------------------------------------------------------------------------------About Skills*/
-
-.tech-skills {
-    padding-top: 100px;
-    padding-left: 210px;
-    padding-bottom: 100px;
-    color: #F9F9F2;   
-}
-
-.fa-adobe {
-    padding-right: 9px;
-}
-
-.fa-github {
-    padding-right: 9px;
-    padding-left: 9px;  
-}
-
-.fa-html5 {
-    padding-right: 9px;
-    padding-left: 9px;  
-}
-
-.fa-css3 {
-    padding-right: 9px;
-    padding-left: 9px;  
-}
-
-.fa-bootstrap {
-    padding-right: 9px;
-    padding-left: 9px;  
-}
-
-/* -------------------------------------------------------------------------------Contact */
+/* ------------------------------------------------------------------------------Contact */
 
 .form-container {
     /* copied full-width image code from css-tricks.com */
@@ -414,3 +382,71 @@ footer {
     color: #F9F9F2  
 }
 
+/* -------------------------------------------------------------------------------Skills*/
+
+.progress {
+    position: relative;
+    height: 25px;
+    margin-bottom: 4px;
+}
+
+.progress-type {
+    position: absolute;
+    left: 0px;
+    font-weight: 400;
+    padding: 3px 30px 2px 10px;
+    color: #F9F9F2;
+    background-color: rgba(25, 25, 25, 0.2);
+}
+
+.tech-skills-front-end {
+    bottom-margin: 200px;
+}
+
+/* -------------------------------------------------------------------------------Work History*/
+
+.bg-color-work-history {
+    background-color: #17252A;
+}
+
+.history-heading {
+    color: #F9F9F2;
+    margin-bottom: 50px;
+}
+
+.timeline-item {
+    color: #F9F9F2;
+    padding-top: 4em 2em 0em 2em;
+    position: relative;
+    border-left: 1px solid;
+}
+
+.timeline-item p {
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:before h4 {
+    content: attr(data-dates);
+    position: absolute;
+    left: 2.5em;
+    top: 3em;
+    display: block;
+    font-family: "Yantramanov", sans-serif;
+    font-weight: 500;
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:after p {
+    width: 12px;
+    height: 12px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: "";
+    background: #F9F9F2;
+}
