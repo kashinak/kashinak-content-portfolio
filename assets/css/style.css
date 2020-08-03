@@ -23,7 +23,26 @@ body {
     overflow: hidden;
 }
 
-/* alert */
+/* -------------------------------------------------------------------------------Special margins/paddings/text */
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: "Yantramanov", sans-serif;
+    font-weight: 300;
+    color: #F9F9F2;
+}
+
+/* -------------------------------------------------------------------------------Alert */
 
 .alert-container .col-12 {
     padding-left: 0;
@@ -46,7 +65,7 @@ body {
     background-color:transparent;
 }
 
-/* navbar */
+/* -------------------------------------------------------------------------------Navbar */
 
 .navbar-container {
     background-color: #9c047b;
@@ -74,7 +93,7 @@ body {
     max-width: 300px;
 }
 
-/* call-to-action */
+/* -------------------------------------------------------------------------------Call-To-Action */
 
 .opaque-overlay {
     position: relative;   
@@ -104,7 +123,7 @@ body {
     background-position: -200 175px;
 }
 
-/* video carousel navbar*/
+/* -------------------------------------------------------------------------------Video Carousel Navbar */
 
 .carousel {
     padding-left: 0px;
@@ -152,7 +171,7 @@ body {
 .container{
     margin-top: 600px;
 }
-/* buttons */
+/* -------------------------------------------------------------------------------Buttons */
 
 /* using method from code institute training called 'block element modifier' for writing structuring my css code */
 
@@ -176,7 +195,7 @@ body {
     border-color: #BFD9D7;
 }
 
-/* about section */
+/* -------------------------------------------------------------------------------About */
 
 .about-container {
     padding-top: 0px;
@@ -235,14 +254,12 @@ body {
     padding-left: 9px;  
 }
 
-/* about section */
-
-/* contact page */
+/* -------------------------------------------------------------------------------Contact */
 
 .form-container {
     background-color:  #15110a;
 }
-/* mailto form */
+/* -------------------------------------------------------------------------------Mailto Form */
 
 .jumbotron .form {
     color: #BFD9D7;
@@ -253,21 +270,16 @@ body {
     color:#F9F9F2;
 }
 
-/* footer */
+/* -------------------------------------------------------------------------------Footer */
 
-.text-footer {
-    color: rgba(0,0,0,0.5)
+footer {
+    background-color: #9c047b;
+    color: #F9F9F2;  
+    min-height: 120px;
+    margin:0;
 }
 
 .copyright {
     color: #F9F9F2  
 }
-.footer-container .justify-content {
-    justify-content: center!important;
-}
 
-.footer-container {
-    margin-top: 0px;
-    margin-bottom: 0px;
-    background-color: #9c047b;
-}
