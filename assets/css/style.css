@@ -72,7 +72,7 @@ h4 {
 /* -------------------------------------------------------------------------------Navbar */
 
 .navbar-container {
-    background-color: #9c047b;
+    background-color: #116466;
 }
 
 .navbar {
@@ -99,35 +99,39 @@ h4 {
 
 /* -------------------------------------------------------------------------------Call-To-Action */
 
-.opaque-overlay {
+/* .opaque-overlay {
     position: relative;   
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.5); */
 
     /* copied full-width image code from css-tricks.com */
-    -webkit-background-size: cover;
+    /* -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-position: 0 250px;
-}
+} */
 
 .cta-container {
     height: 100vh;
-
+   
     /* copied full-width image code from css-tricks.com */
     background: url("../images/gra0227.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-position: -200 175px;
+    background-position: -200 600px;
 }
 
 /* -------------------------------------------------------------------------------Video Carousel Navbar */
+
+.portfolio.container {
+    background: #116466;
+}
 
 .carousel {
     padding-left: 0px;
@@ -155,7 +159,7 @@ h4 {
     text-emphasis-color: #F9F9F2;
 }
 
-/* jumbotron */
+/* -------------------------------------------------------------------------------Jumbotron */
 
 .jumbotron {
     background-color: transparent;
@@ -173,11 +177,10 @@ h4 {
 }
 
 .container{
-    margin-top: 600px;
+    margin-top: 200px;
 }
-/* -------------------------------------------------------------------------------Buttons */
 
-/* using method from code institute training called 'block element modifier' for writing structuring my css code */
+/* -------------------------------------------------------------------------------Buttons */
 
 .btn-cta {
     font-weight: bold;
@@ -205,6 +208,7 @@ h4 {
     padding-top: 0px;
     background-color: #15110a;
 }
+
 .about {
     padding-left: 200px;
     padding-top: 100px;
@@ -221,21 +225,19 @@ h4 {
     padding-top: 200px;
 }
 
-.tech-skills {
-    padding-top: 100px;
-    padding-left: 210px;
-    padding-bottom: 100px;
-    color: #F9F9F2;
-    
-}
-
 .about-call-to-action {
     padding-top: 100px;
 }
 
+.tech-skills {
+    padding-top: 100px;
+    padding-left: 210px;
+    padding-bottom: 100px;
+    color: #F9F9F2;   
+}
+
 .fa-adobe {
     padding-right: 9px;
-  
 }
 
 .fa-github {
@@ -261,8 +263,15 @@ h4 {
 /* -------------------------------------------------------------------------------Contact */
 
 .form-container {
-    background-color:  #15110a;
+    /* copied full-width image code from css-tricks.com */
+    background: url("../images/surfer.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: -200 175px;
 }
+
 /* -------------------------------------------------------------------------------Mailto Form */
 
 .jumbotron .form {
@@ -277,7 +286,7 @@ h4 {
 /* -------------------------------------------------------------------------------Footer */
 
 footer {
-    background-color: #9c047b;
+    background-color: #2C3531;
     color: #F9F9F2;  
     min-height: 120px;
     margin:0;
@@ -311,7 +320,7 @@ footer {
     line-height: 7px;
     text-align: center;
     color: #F9F9F2;
-    background: #353745;
+    background: #116466;
      transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
