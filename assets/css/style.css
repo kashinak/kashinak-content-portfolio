@@ -204,7 +204,7 @@ h4 {
 
 /* -------------------------------------------------------------------------------About */
 
-.about-container {
+/* .about-container {
     padding-top: 0px;
     background-color: #15110a;
 }
@@ -212,11 +212,35 @@ h4 {
 .about {
     padding-left: 200px;
     padding-top: 100px;
+} */
+
+/* .about-text {
+    -webkit-text-fill-color: #BFD9D7;
+} */
+
+.bg-color-about-me {
+    background-color:#D1E8E2;
 }
 
-.about-text {
-    -webkit-text-fill-color: #BFD9D7;
+/* -------------------------------------------------------------------------------About table*/
+.row-table{
+    display: table;
 }
+
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
+
+.section-heading {
+    font-family: "Yantramanov", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+/* -------------------------------------------------------------------------------About CTA*/
 
 .about-image {
     width: 1008;
@@ -228,6 +252,8 @@ h4 {
 .about-call-to-action {
     padding-top: 100px;
 }
+
+/* -------------------------------------------------------------------------------About Skills*/
 
 .tech-skills {
     padding-top: 100px;
