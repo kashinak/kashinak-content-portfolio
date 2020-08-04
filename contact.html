@@ -71,27 +71,26 @@
                             <strong>Let's discuss your creative goals.</strong>
                         </p>
                     </div>
-                        <!--mailto form-->
-                    <div class="form"><h2>Email Me</h2></div>
+                    <!--mailto form-->
                     <form action="mailto:kashinakfx@gmail.com" method="get" enctype="text/plain">
-                        <div class="input-text">
-                            <label for="name">Name:
-                                <input type="text" name="name" id="name" />
-                            </label>
-                        </div>
-                        <div class="input-text">
-                            <label for="email">Email:
-                                <input type="text" name="email" id="email" />
-                            </label>
-                        </div>
-                        <div class="input-text">
-                            <label>Comments:</label>
-                            <br />
-                            <textarea name="comments" rows="12" cols="35">Message:</textarea>
-                        </div>
                         <div class="input">
-                            <input type="submit" name="submit" value="Send" />
-                            <input type="reset" name="reset" value="Clear Form" />
+                            <label for="name">
+                                <input type="text" placeholder="What's your name?" name="name" id="name" />
+                            </label>
+                        </div>
+                        <div class="input-email">
+                            <label for="email">
+                                <input type="text" placeholder="What's your email?" name="email" id="email" />
+                            </label>
+                        </div>
+                        <div class="input-text">
+                            <label></label>
+                            <br />
+                            <textarea name="comments" rows="12" cols="35">Please type your message here:</textarea>
+                        </div>
+                        <div class="input btn-send">
+                            <input type="submit" name="submit" value="Send" class="send-text-input"/>
+                            <!-- <input type="reset" name="reset" value="Clear Form" /> -->
                         </div>
                     </form>
                     <!--/.mailto form-->
