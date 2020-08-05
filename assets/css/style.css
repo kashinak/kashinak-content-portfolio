@@ -101,13 +101,12 @@ h4 {
 
 .cta-container {
   
-    /* copied full-width image code from css-tricks.com */
     background: url("../images/gra0227.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-position: -200 600px;
+    background-position: -200px 600px;
     box-sizing: border-box;
 }
 
@@ -289,7 +288,7 @@ h4 {
 /* -------------------------------------------------------------------------------About CTA*/
 
 .about-image {
-    width: 1008;
+    width: 1008px;
     height: 756px;
     padding-left: 200px;
     padding-top: 200px;
@@ -308,7 +307,7 @@ h4 {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-position: -200 175px;
+    background-position: -200px 175px;
 }
 
 /* -------------------------------------------------------------------------------Mailto Form */
@@ -374,13 +373,8 @@ textarea {
     background: -webkit-gradient(linear, left top, left bottom, from(#6da5a3), to(#416b68));
     background: -webkit-linear-gradient(top, #6da5a3, #416b68);
     background: -moz-linear-gradient(top, #6da5a3, #416b68);
-    /* background: -ms-linear-gradient(top, #6da5a3, #416b68); */
     background: -o-linear-gradient(top, #6da5a3, #416b68);
-    /* background-image: -ms-linear-gradient(top, #6da5a3 0%, #416b68 100%); */
     padding: 10.5px 21px;
-    /* -webkit-border-radius: 6px;
-    -moz-border-radius: 6px; */
-    /* border-radius: 6px; */
     -webkit-box-shadow: rgba(255,255,255,0.1) 0 1px 0, inset rgba(255,255,255,0.7) 0 1px 0;
     -moz-box-shadow: rgba(255,255,255,0.1) 0 1px 0, inset rgba(255,255,255,0.7) 0 1px 0;
     box-shadow: rgba(255,255,255,0.1) 0 1px 0, inset rgba(255,255,255,0.7) 0 1px 0;
@@ -395,9 +389,7 @@ textarea {
     background: -webkit-gradient(linear, left top, left bottom, from(#77b2b0), to(#416b68));
     background: -webkit-linear-gradient(top, #77b2b0, #416b68);
     background: -moz-linear-gradient(top, #77b2b0, #416b68);
-    /* background: -ms-linear-gradient(top, #77b2b0, #416b68); */
     background: -o-linear-gradient(top, #77b2b0, #416b68);
-    /* background-image: -ms-linear-gradient(top, #77b2b0 0%, #416b68 100%); */
     color: #fff;
  }
 
@@ -409,9 +401,7 @@ textarea {
     background: -webkit-gradient(linear, left top, left bottom, from(#416b68), to(#416b68));
     background: -webkit-linear-gradient(top, #416b68, #609391);
     background: -moz-linear-gradient(top, #416b68, #6da5a3);
-    /* background: -ms-linear-gradient(top, #416b68, #6da5a3); */
     background: -o-linear-gradient(top, #416b68, #6da5a3);
-    /* background-image: -ms-linear-gradient(top, #416b68 0%, #6da5a3 100%); */
     color: #fff;
     -webkit-box-shadow: rgba(255,255,255,0) 0 1px 0, inset rgba(255,255,255,0.7) 0 1px 0;
     -moz-box-shadow: rgba(255,255,255,0) 0 1px 0, inset rgba(255,255,255,0.7) 0 1px 0;
@@ -548,7 +538,7 @@ footer {
     text-align: center;
     color: #F9F9F2;
     background: #116466;
-     transition: all 0.35s ease-in-out;
+    transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
