@@ -23,7 +23,7 @@ body {
     overflow: hidden;
 }
 
-/* -------------------------------------------------------------------------------Special margins/paddings/text */
+/* -------------------------------------------------------------------------------General*/
 
 h1,
 h2,
@@ -189,20 +189,6 @@ h4 {
 
 /* -------------------------------------------------------------------------------About */
 
-/* .about-container {
-    padding-top: 0px;
-    background-color: #15110a;
-}
-
-.about {
-    padding-left: 200px;
-    padding-top: 100px;
-} */
-
-/* .about-text {
-    -webkit-text-fill-color: #BFD9D7;
-} */
-
 .bg-color-about-me {
     background-color:#D1E8E2;
 }
@@ -216,10 +202,27 @@ h4 {
     margin-bottom: 15px;
 }
 
+.about-me-qa {
+    margin-top: 20px;
+    padding-top: 45px;
+    margin-bottom: 50px;
+}
+
+.about-me-heaading {
+    margin-top: 20px;
+    padding-bottom: 0;
+    padding-top: 45px;
+}
+
 /* -------------------------------------------------------------------------------About Personal Info*/
 
 .bg-color-personal-info {
     background-color: #99bfb5;
+}
+.about-container {
+    margin-bottom: 0;
+    border-bottom: 0;
+
 }
 
 .personal-info-item {
@@ -237,6 +240,7 @@ h4 {
 .personal-info-item .key p,
 .personal-info-item .value p {
     margin: 0;
+    font-size: 18px;
 }
 
 .personal-info-item .key {
@@ -255,6 +259,13 @@ h4 {
     width: 60%;
 }
 
+.personal-info-all {
+    margin-top: 20px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+
+
 /* -------------------------------------------------------------------------------About table*/
 
 .row-table {
@@ -267,6 +278,7 @@ h4 {
     float: none;
 }
 
+.history-heading,
 .section-heading {
     font-family: "Yantramanov", sans-serif;
     font-weight: 300;
@@ -306,10 +318,6 @@ form {
     border-color: transparent;
 }
 
-input {
-    color: white;
-}
-
 input [type=submit] {
     padding: 20px;
     font-size: 14px;
@@ -319,14 +327,14 @@ input [type=submit] {
 #email, #name {
     padding: 20px;
     color: #F9F9F2;
-    font-size: 14px;
+    font-size: 30px;
     margin: 10px 0; 
     text-align: center;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
     -o-border-radius: 10px;
     border-radius: 10px;
-    background-color: rgba(66, 121, 109, 0.25)
+    background-color: rgba(27, 173, 161, 0.75);
 }
 
 textarea {
@@ -334,7 +342,7 @@ textarea {
     -webkit-border-radius: 10px;
     -o-border-radius: 10px;
     border-radius: 10px;
-    background-color: rgba(66, 121, 109, 0.25);
+    background-color: rgba(27, 173, 161, 0.75);
     color: #F9F9F2;
 }
 
@@ -419,14 +427,14 @@ textarea {
 }
 
 .history-heading {
-    color: #F9F9F2;
+    color: #fafafa;
     margin-bottom: 50px;
 }
 
 .timeline-item {
-    color: #F9F9F2;
-    padding-top: 4em 2em 0em 2em;
+    padding: 4em 2em 0em 2em;
     position: relative;
+    color: #fafafa;
     border-left: 1px solid;
 }
 
@@ -435,20 +443,20 @@ textarea {
     margin: 0;
 }
 
-.timeline-item:before h4 {
+.timeline-item:before {
     content: attr(data-dates);
     position: absolute;
     left: 2.5em;
     top: 3em;
     display: block;
-    font-family: "Yantramanov", sans-serif;
+    font-family: "Exo", sans-serif;
     font-weight: 500;
     font-size: 0.8em;
     padding: 0;
     margin: 0;
 }
 
-.timeline-item:after p {
+.timeline-item:after {
     width: 12px;
     height: 12px;
     display: block;
@@ -456,8 +464,12 @@ textarea {
     position: absolute;
     left: -6px;
     border-radius: 12px;
-    content: "";
-    background: #F9F9F2;
+    content: '';
+    background: #fafafa;
+}
+
+.history-items {
+    margin-bottom: 30px;
 }
 
 /* -------------------------------------------------------------------------------Skills*/
@@ -473,12 +485,29 @@ textarea {
     left: 0px;
     font-weight: 400;
     padding: 3px 30px 2px 10px;
-    color: #F9F9F2;
+    color: rgb(45 34 18);
     background-color: rgba(25, 25, 25, 0.2);
+
 }
 
-.tech-skills-front-end {
-    margin-bottom: 200px;
+.progress-section {
+    margin: 40px 20px;
+}
+
+.bg-progress-one {
+    background-color: rgb(71, 240, 192);
+}
+
+.bg-progress-two {
+    background-color: rgb(253, 242, 114);
+}
+
+.bg-progress-three {
+    background-color: rgb(199, 178, 102);
+}
+
+.bg-progress-four {
+    background-color: rgb(133, 131, 128);
 }
 
 /* -------------------------------------------------------------------------------Footer */
