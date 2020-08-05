@@ -563,7 +563,8 @@ footer {
 }
 
 .copyright {
-    color: #F9F9F2  
+    color: rgb(139, 139, 139);  
+    font-size: 18px;
 }
 
 
