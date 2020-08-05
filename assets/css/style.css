@@ -106,8 +106,9 @@ h4 {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-position: -200px 600px;
+    background-position: 0px 0px;
     box-sizing: border-box;
+    height: 100vh;
 }
 
 /* -------------------------------------------------------------------------------Video Carousel Navbar */
