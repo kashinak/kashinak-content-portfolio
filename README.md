@@ -8,7 +8,7 @@ Kashina's down-to-earth friendly quality is conveyed in her 'about' section writ
 ## UX
  
 This website is for connecting with other creative partners and employers in Kashina Kessler's field. 
-It also serves as a backdrop for Kashina's previous work background before embarking on her new coding career.  
+It also serves as a backdrop for Kashina's previous work background before embarking as student in her new coding career.  
 This website can be used as a complimentary item with Kashina's resume; as an aside hyperlink for "more details" on Kashina's work history.
 
 The user should achive a brief overview of Kashina Kessler's documentary work as well as a short about section describing her work methodology and creative background. 
