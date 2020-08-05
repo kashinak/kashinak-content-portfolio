@@ -101,12 +101,12 @@ h4 {
 
 .cta-container {
   
-    background: url("../images/resizedhero.jpg") no-repeat center center fixed; 
+    background: url("../images/gra0227repo.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-position: 0px 0px;
+    background-position: 0px 50px;
     box-sizing: border-box;
     height: 100vh;
 }
@@ -151,18 +151,18 @@ h4 {
 }
 
 .jumbotron .lead {
-    color: #BFD9D7;
+    color: rgb(255 255 255);
     text-align: center;
 }
 
 .jumbotron-header {
-    color: white;
+    color: #43b3b5;
     font-weight: bold;
     margin-bottom: 30px;
 }
 
 .container{
-    margin-top: 200px;
+    margin-top: 300px;
 }
 
 /* -------------------------------------------------------------------------------Buttons */
