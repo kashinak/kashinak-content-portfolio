@@ -17,17 +17,17 @@ As an employer or creative partner, the user can view Kashina's portfolio easily
 
 ### User Stories
 - First Time Visitor Goals:
-  - I want to intuitively navigate through the site to see if Kashina is a good fot for our company.
+  - I want to intuitively navigate through the site to see if Kashina is a good fit for our company.
   - I want to easily view Kashina's video work.
-  - I want to know Kashina's video work.
+  - I want to know Kashina's range and quality of work.
 - Returning Visitor Goals:
   - I want to easily download Kashina's resume.
-  - I want to eamil a link to one of Kashina's videos to forward to my colleague.
+  - I want to email a link share one of Kashina's videos with my work colleague.
   - I want to contact Kashina to discuss a creative project.
 - Frequent User Goals:
   - I want to check and see if Kashina has improved on her coding skillset.
   - I want to check and see if Kashina has added any new work to her portfolio.
-  - I want to see Kashina’s availability to work with me on a creative video job.
+  - I want to view Kashina’s availability to work with me on a creative video job.
 
 ## Design
 
