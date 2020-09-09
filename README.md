@@ -134,12 +134,14 @@ This project is deployed on Github and was written in Gitpod. It is currently ho
 Kashina Kessler - lead developer
 Mark Rialto - mentor developer guidance
 Code Institute - online tutorials
+Miklos Sarosi - tutoring support
 
 ### Content
 
 - The social media icons for the footer section was copied from [font-awesome](https://fontawesome.com/icons?d=gallery)
 - copied full-width image code snippet from css-tricks.com
 - copied code snippets from Code Institute 'whiskey' Front End demo. 
+- copied green button gradient color css code from css-tricks.com
 
 ### Media
 - The photos used in this site were obtained from screenshots of YouTube videos from the YouTube video content dislpayed and from Kashina Kessler's private photo collection.
