@@ -67,8 +67,8 @@ As an employer or creative partner, the user can view Kashina's portfolio easily
 - Blog to encourage repeat site traffic and website exposure.
 - update with new additional video work.
 
-## Technologies Used
-  [.html] (https://html.com/)
+## Languages Used
+  HTML5
   [.css] (https://www.w3.org/Style/CSS/Overview.en.html)
   [Bootstrap](https://getbootstrap.com/)
   [JQuery](https://jquery.com)
