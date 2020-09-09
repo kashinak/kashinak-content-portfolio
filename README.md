@@ -68,16 +68,16 @@ As an employer or creative partner, the user can view Kashina's portfolio easily
 - update with new additional video work.
 
 ## Languages Used
-  HTML5
-  [.css] (https://www.w3.org/Style/CSS/Overview.en.html)
-  [Bootstrap](https://getbootstrap.com/)
-  [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-  [Google Fonts] (https://fonts.google.com/)
-  [Font Awesome] (https://fontawesome.com/)
-  [Github] (https://github.com/)
-  [Photoshop] (https://www.adobe.com/ie/products/photoshop.html#)
-  [Balsamiq] (https://balsamiq.com/)
+ 1. HTML5 
+ 2. CSS
+ 
+ ## Frameworks, Libraries & Progams Used
+ 1. JQuery
+ 2. Google Fonts
+ 3. Font Awesome
+ 4. Github
+ 5. Photoshop
+ 6. Balsamiq
 
 ## Testing
 
