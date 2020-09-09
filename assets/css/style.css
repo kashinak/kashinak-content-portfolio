@@ -308,7 +308,7 @@ h4 {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-position: -200px 175px;
+    background-position: cover;
 }
 
 /* -------------------------------------------------------------------------------Mailto Form */
