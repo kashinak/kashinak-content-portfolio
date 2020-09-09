@@ -15,20 +15,19 @@ The user will see short snippets of Kashina Kessler's documentary work as well a
 
 As an employer or creative partner, the user can view Kashina's portfolio easily on mobile and desktop. see wireframes and mockups scketches. The 'about' and 'resume' pages provide a breif work history skill section and 3 reasons why employers should hire Kashina. There is a 'cv download' menu item and download icon in the footer that provides a .pdf of Kashina Kessler's resume.
 
-## User Stories
-
- - First Time Visitor Goals:
- I want to intuitively navigate through the site and learn more about Kashina Kessler’s professional world.
- I want to easily view Kashina’s video work.
- I want to know Kashina working style as a creative partner.
- - Returning Visitor Goals:
-I want to easily download Kashina’s resume
-I want to find a YouTube link of Kashina’s work to forward to my work colleague.
-I want to email Kashina to start a conversation about a creative project I may need some help with.
- - Frequent User Goals:
- As a Frequent User, I want to check and see if Kashina has improved on her coding skillset.
-As a Frequent User, I want to check and see if Kashina has added any new work to her portfolio.
-As a Frequent User, I want to see Kashina’s availability to work with me on a creative video job.
+### User Stories
+- First Time Visitor Goals
+- I want to intuitively navigate through the site to see if Kashina is a good fot for our company.
+- I want to easily view Kashina's video work.
+- I want to know Kashina's video work.
+- Returning Visitor Goals:
+- I want to easily download Kashina's resume.
+- I want to eamil a link to one of Kashina's videos to forward to my colleague.
+- I want to contact Kashina to discuss a creative project.
+- Frequent User Goals:
+- I want to check and see if Kashina has improved on her coding skillset.
+- I want to check and see if Kashina has added any new work to her portfolio.
+- I want to see Kashina’s availability to work with me on a creative video job.
 
 ## Design
 
