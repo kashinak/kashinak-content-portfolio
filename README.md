@@ -73,6 +73,10 @@ As an employer or creative partner, the user can view Kashina's portfolio easily
  6. Balsamiq
 
 ## Testing
+All pages were validated using W3C CSS and HTML Validator to ensure the project has no errors preventing it from working at peak performance. 
+
+- W3C CSS Validator - Results 30 Parse Errors [stated on StackOverflow users that these errors are a "non-issue"] was unable to fix these errors.
+- W3C Markup Validator - Results - no errors
 
 1. Video Carousel
     1. Try to click on the video thumbnail cards for each video category; a corresponding YouTube/ Facebook video link opens. 
