@@ -124,10 +124,12 @@ All pages were validated using W3C CSS and HTML Validator to ensure the project 
   vi. As a Frequent User, I want to view Kashina’s availability to work with me on a creative video job.
      a. To save time, the viewer can click on the large gold "eamil me" button center frame on her home page, which will immediately take the user to the contact mailto Form.
   
+## Known Bugs
+- iPhone5/SE mobile viewport - large call-to-action homepage gold 'email' button scrolls under the video carousel and gets lost making it difficult to acces on this small mobile device.
 
 ## Deployment
 
-This project is deployed on Github and was written in Gitpod. It is currently hosted on Github. 
+This project is deployed on Github PAges and was written in Gitpod. It is currently hosted on Github. 
 
 ## Credits
 
@@ -148,5 +150,5 @@ Miklos Sarosi - tutoring support
 
 ### Acknowledgements
 
-- I received inspiration for this project from Code Institute's class projects; particulary the 'Whiskey' and 'Rosie' tutorial.
+- I received inspiration for this project from Code Institute's class projects; particulary the 'Whiskey' and 'Rosie' tutorial. I want to thank my mentor Mark Rialto for his patience helping me to navigate through the learning process of my first year coding. Also thank you Miklos Sarsoi for helping me solve bugs for my first time going live with this project. 
 
