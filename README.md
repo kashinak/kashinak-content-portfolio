@@ -101,7 +101,7 @@ All pages were validated using W3C CSS and HTML Validator to ensure the project 
     1. try to test on Google Chrome, Safari and Firefox.
     2. When tested on Safari, the mailto form will not load for the tablet viewport; an error message reads it is not supported by Safari.
     
-### Testing User Stories from UX Desing Section:
+### Testing User Stories from UX Design Section:
 1. First Time Visitor Goals:
    i. As a First Time Visiter, I want to intuitively navigate through the site to see if Kashina is a good fit for our company.
       a. When entering the site, users can easily view the Navbar menu with the 5 menu items clearly visible in the menu bar. Each menu button shifts to     
