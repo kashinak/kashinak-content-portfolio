@@ -15,6 +15,31 @@ The user will see short snippets of Kashina Kessler's documentary work as well a
 
 As an employer or creative partner, the user can view Kashina's portfolio easily on mobile and desktop. see wireframes and mockups scketches. The 'about' and 'resume' pages provide a breif work history skill section and 3 reasons why employers should hire Kashina. There is a 'cv download' menu item and download icon in the footer that provides a .pdf of Kashina Kessler's resume.
 
+## User Stories
+
+ o	First Time Visitor Goals
+
+	a. As a First Time Visitor, I want to intuitively navigate through the site and learn more about Kashina Kessler’s professional world.
+	b. As a First Time Visitor, I want to easily view Kashina’s video work.
+	c. As a First Time Visitor, I want to know Kashina working style as a creative partner.
+
+o	Returning Visitor Goals
+	a. As a Returning Visitor, I want to easily download Kashina’s resume
+	b. As a Returning Visitor, I want to find a YouTube link of Kashina’s work to forward to my work colleague.
+	c. As a Returning Visitor, I want to email Kashina to start a conversation about a creative project I may need some help with.
+
+o	Frequent User Goals
+	a. As a Frequent User, I want to check and see if Kashina has improved on her coding skillset.
+	b. As a Frequent User, I want to check and see if Kashina has added any new work to her portfolio.
+	c. As a Frequent User, I want to see Kashina’s availability to work with me on a creative video job.
+
+## Design
+
+ Color Palette: The two prominent colors are gold and green.
+ Typography: Font is Montserrat and Yantramonov and sans serif as a fallback. Both fonts seemlessly pair well together and provide simple elegance.
+ Imagery: The large hero image of the home page is Kashina in her daily work and is a friendly gesture to greet the first time visitor. The photo is a springboard inviting the user to hit the call-to-action "get in touch!" button to hire Kashina.
+ 
+
 ## Existing Features
 
 - 4 pages: 'home' 'about 'contact' and 'resume' pages. Kashina Kessler's video portfolio is included on the 'home' page.
@@ -23,11 +48,17 @@ As an employer or creative partner, the user can view Kashina's portfolio easily
 - video thumbnail card carousel on 'home' page with clickable links to Youtube and Facebook video content.
 - header - collapsable menu navbar in mobile view - active page link buttons - Kashina Kessler custom logo
 - footer - truncated 'about me' with social media icons links and a download cv that changes to gold color with and ease-in hover effect. 
+- alert banner at top of pages for desktop view - remote working arrangement for Covid-19 if needed. 
 
 ### Features Left to Implement
 - Improved Video Links: that are on a private server to create a cleaner more professional viewing experience.
 - Video Category Pages with brief descriptions of each video [awards, role, etc...]
-- Improved design.
+- Testimonials section of quotes from people Kashina has worked with attesting to her professionalism.
+- A calendar to schedule a call.
+- Updating social website links to make them more professionally focused.
+- silent video billboard of additional clips from Kashina's video portfolio.
+- Blog to encourage repeat site traffic and website exposure.
+- update with new additional video work.
 
 ## Technologies Used
   [.html] (https://html.com/)
@@ -35,6 +66,11 @@ As an employer or creative partner, the user can view Kashina's portfolio easily
   [Bootstrap](https://getbootstrap.com/)
   [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
+  [Google Fonts] (https://fonts.google.com/)
+  [Font Awesome] (https://fontawesome.com/)
+  [Github] (https://github.com/)
+  [Photoshop] (https://www.adobe.com/ie/products/photoshop.html#)
+  [Balsamiq] (https://balsamiq.com/)
 
 ## Testing
 
