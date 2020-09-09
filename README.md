@@ -40,13 +40,6 @@ As an employer or creative partner, the user can view Kashina's portfolio easily
 -  Imagery: 
   - The large hero image of the home page is Kashina in her daily work and is a friendly gesture to greet the first time visitor. The photo is a springboard inviting the user to hit the call-to-action "get in touch!" button to hire Kashina.
 
-## Design
-
-
- Typography: Font is Montserrat and Yantramonov and sans serif as a fallback. Both fonts seemlessly pair well together and provide simple elegance.
- Imagery: The large hero image of the home page is Kashina in her daily work and is a friendly gesture to greet the first time visitor. The photo is a springboard inviting the user to hit the call-to-action "get in touch!" button to hire Kashina.
- 
-
 ## Existing Features
 
 - 4 pages: 'home' 'about 'contact' and 'resume' pages. Kashina Kessler's video portfolio is included on the 'home' page.
