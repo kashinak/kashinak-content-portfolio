@@ -29,9 +29,20 @@ As an employer or creative partner, the user can view Kashina's portfolio easily
   - I want to check and see if Kashina has added any new work to her portfolio.
   - I want to view Kashina’s availability to work with me on a creative video job.
 
+### Design
+
+- Color Palette:
+  - The two prominent colors are gold and green.
+  - I want to easily view Kashina's video work.
+  - I want to know Kashina's range and quality of work.
+-  Typography:
+  - Font is Montserrat and Yantramonov and sans serif as a fallback. Both fonts seemlessly pair well together and provide simple elegance.
+-  Imagery: 
+  - The large hero image of the home page is Kashina in her daily work and is a friendly gesture to greet the first time visitor. The photo is a springboard inviting the user to hit the call-to-action "get in touch!" button to hire Kashina.
+
 ## Design
 
- Color Palette: The two prominent colors are gold and green.
+
  Typography: Font is Montserrat and Yantramonov and sans serif as a fallback. Both fonts seemlessly pair well together and provide simple elegance.
  Imagery: The large hero image of the home page is Kashina in her daily work and is a friendly gesture to greet the first time visitor. The photo is a springboard inviting the user to hit the call-to-action "get in touch!" button to hire Kashina.
  
