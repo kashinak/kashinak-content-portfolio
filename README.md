@@ -100,6 +100,26 @@ All pages were validated using W3C CSS and HTML Validator to ensure the project 
 7. Browser
     1. try to test on Google Chrome, Safari and Firefox.
     2. When tested on Safari, the mailto form will not load for the tablet viewport; an error message reads it is not supported by Safari.
+    
+### Testing User Stories from UX Desing Section:
+1. First Time Visitor Goals:
+   i. As a First Time Visiter, I want to intuitively navigate through the site to see if Kashina is a good fit for our company.
+      a. When entering the site, users can easily view the Navbar menu with the 5 menu items clearly visible in the menu bar. Each menu button shifts to     
+   ii. As a First Time Visiter, I want to easily view Kashina's video work.
+      a. The video carousel on the lower half of the home page, advances forward automatically showing a frame of each video in Kashina's video portfolio.   The movement of the video thumnails cues the viewer's attention toward's Kashina's video porfolio. There is no need to search for her work; it literally waves at the viewer in plain view.
+  iii. As a First Time Visiter, I want to know Kashina's range and quality of work.
+      a. The elegant gold menu bar beneath the video frames displays video genres. the ease of use to view Kashina's portfolio is enhanced by the entire carousel surface being a clickable play button to view Kashina;s videos.
+ 2. Returning Visitor Goals:
+   i. As a Returning Visitor, I want to easily download Kashina's resume.
+      a. There is a full page dedicated to Kashina's resume called "resume" located on the header navbar as one of the main menu items. There are also two addtional links to download a more traditional .pdf resume. One donwload link is labeled "download" as the last main menu item on the header navbar. Additionally there is a download icon button located in the footer of each page. 
+   ii. As a Returning Visitor, I want to email a link to share one of Kashina's videos with my work colleague.
+      a. After clicking on the video carousel on the home page, a video will open on a separate page in YouTube where the user may easily access a YouTube video link.
+  iii. I want to contact Kashina to discuss a creative project.
+      a. The first thing, the user sees is a call-to-action "Get in Touch!" with an "email me" button overlayed on top of Kashina's hero image on the home page. Also there is a "contact" page with a large mailto Form that is easy for the user to email Kashina directly. There is no seraching or guess work to find how to contact Kashina. There is a also a larege "Personal Info" section occupying a third of the "about" page. Kashina's location and contact info is available.
+- Frequent User Goals:
+  - I want to check and see if Kashina has improved on her coding skillset.
+  - I want to check and see if Kashina has added any new work to her portfolio.
+  - I want to view Kashina’s availability to work with me on a creative video job.
 
 ## Deployment
 
