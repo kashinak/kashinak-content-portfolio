@@ -17,21 +17,23 @@ As an employer or creative partner, the user can view Kashina's portfolio easily
 
 ## User Stories
 
- o	First Time Visitor Goals
+ - First Time Visitor Goals
 
-	a. As a First Time Visitor, I want to intuitively navigate through the site and learn more about Kashina Kessler’s professional world.
-	b. As a First Time Visitor, I want to easily view Kashina’s video work.
-	c. As a First Time Visitor, I want to know Kashina working style as a creative partner.
+	- As a First Time Visitor, I want to intuitively navigate through the site and learn more about Kashina Kessler’s professional world.
+	- As a First Time Visitor, I want to easily view Kashina’s video work.
+	- As a First Time Visitor, I want to know Kashina working style as a creative partner.
 
-o	Returning Visitor Goals
-	a. As a Returning Visitor, I want to easily download Kashina’s resume
-	b. As a Returning Visitor, I want to find a YouTube link of Kashina’s work to forward to my work colleague.
-	c. As a Returning Visitor, I want to email Kashina to start a conversation about a creative project I may need some help with.
+- Returning Visitor Goals
 
-o	Frequent User Goals
-	a. As a Frequent User, I want to check and see if Kashina has improved on her coding skillset.
-	b. As a Frequent User, I want to check and see if Kashina has added any new work to her portfolio.
-	c. As a Frequent User, I want to see Kashina’s availability to work with me on a creative video job.
+	- As a Returning Visitor, I want to easily download Kashina’s resume
+	- As a Returning Visitor, I want to find a YouTube link of Kashina’s work to forward to my work colleague.
+	- As a Returning Visitor, I want to email Kashina to start a conversation about a creative project I may need some help with.
+
+- Frequent User Goals
+
+	- As a Frequent User, I want to check and see if Kashina has improved on her coding skillset.
+	- As a Frequent User, I want to check and see if Kashina has added any new work to her portfolio.
+	- As a Frequent User, I want to see Kashina’s availability to work with me on a creative video job.
 
 ## Design
 
