@@ -85,21 +85,21 @@ All pages were validated using W3C CSS and HTML Validator to ensure the project 
     1. Try to use the menu items 'home' 'about' 'contact' and 'resume' and they work perfectly that when selected, the page name shifts in color to indicate        the page that is currently active. 
     2. Try to view in mobile and the navbar menu collapses into a dropdown menu.
 
-3. Contact Form
+3. mailto Form
     1. Try to submit form to Kashina's email and it works - confirmed that Kashina recieved an email sent from 'contact' page 'send' form.
 
 4. Call-to- Action gold button
     1. Try to select large gold 'email me' call-to-action button and it succesffully opened the 'Contact' page. This call-to-action 'email me' button is            available on both the 'home' page and 'about' page. 
+    
 5. 'home' 'about' 'contact' 'resume' 'download' - social media icons and downlaod cv footer icon - all work successfully when selected.
-    1. works great
 
 6. Mobile First Responsive Design
     1. Try to view in mobile and there is a size issue. The navbar covers Kashina's landing page photo covering her face. This needs some improvement.
     2. All other features work in mobile view.
 
 7. Browser
-    1. try to test on Chrome browser and the website loads.
-    2. The project has not been tested on other browsers. 
+    1. try to test on Google Chrome, Safari and Firefox.
+    2. When tested on Safari, the mailto form will not load for the tablet viewport; an error message reads it is not supported by Safari.
 
 ## Deployment
 
